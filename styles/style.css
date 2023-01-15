@@ -16,6 +16,10 @@ body{
     padding: 0 20px;
 }
 
+.frist-container{
+    padding-top: 20px;
+}
+
 h1{
     font-size: 64px;
     font-weight: 700;
@@ -307,7 +311,7 @@ nav a{
     border-radius: 8px;
     padding: 39px 0;
     margin-top: 130px;
-    margin-bottom: 216px;
+    margin-bottom: 130px;
 }
 
 
